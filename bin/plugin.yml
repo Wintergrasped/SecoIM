@@ -1,0 +1,7 @@
+name: SecoIM
+main: com.secomc.main.Main
+version: 0.0.1
+api-version: 1.19
+description: "Seco Item Manager"
+authors: [Wintergrasped, TotallyNotLurkin, Triston, Ranger_Of_Death]
+depend: [STSEcon]
